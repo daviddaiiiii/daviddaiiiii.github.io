@@ -29,6 +29,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gaole Dai"
   avatar           : "images/avatar.png"
+  og_image         : "images/profile.png"
   bio              : ""
   location         : "Beijing, China"
   employer         :
