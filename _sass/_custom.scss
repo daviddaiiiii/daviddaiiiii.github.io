@@ -28,8 +28,10 @@ p, li, .authors, .venue {
 }
 
 // Author name in sidebar — display serif
-.author__name {
-  font-family: $header-font-family;
+// Must match specificity of theme's .sidebar .author__name rule
+.author__name,
+.sidebar .author__name {
+  font-family: $header-font-family !important;
   font-weight: 400 !important;
   letter-spacing: -0.01em;
 }
