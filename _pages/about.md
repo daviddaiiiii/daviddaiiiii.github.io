@@ -21,7 +21,20 @@ header:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is <span class="accent-text">Yuxing Dai</span> (戴裕兴, you can call me Frank). I'm currently a PhD candidate in Pharmacology at **Sun Yat-sen University (SYSU)**. My research spans translational pharmacology and novel drug target discovery, integrating wet lab experiments with single-cell RNA sequencing and bioinformatics analysis.
+
+<div class="hero-intro">
+  <div class="hero-eyebrow">PhD Candidate &middot; Sun Yat-sen University &middot; Pharmacology</div>
+  <div class="hero-name">Yuxing Dai (Frank)</div>
+  <div class="hero-divider"></div>
+  <p>My name is <span class="accent-text">Yuxing Dai</span> (戴裕兴, you can call me Frank). I'm currently a PhD candidate in Pharmacology at <strong>Sun Yat-sen University (SYSU)</strong>. My research spans translational pharmacology and novel drug target discovery, integrating wet lab experiments with single-cell RNA sequencing and bioinformatics analysis.</p>
+  <div class="hero-pills">
+    <span class="hero-pill">Cardiovascular Pharmacology</span>
+    <span class="hero-pill">Neuroprotection</span>
+    <span class="hero-pill">Drug Discovery</span>
+    <span class="hero-pill">Single-cell RNA-seq</span>
+    <span class="hero-pill">Deep Learning</span>
+  </div>
+</div>
 
 <div class="quote-accent">
 My research focuses on <span class="accent-text">Translational Pharmacology & Drug Discovery</span>:
@@ -61,13 +74,38 @@ With a dual background in experimental pharmacology and computational biology, I
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
 <span class='anchor' id='-educations'></span>
-# 🏫 Educations
-- *2025.09 - Present*: &nbsp;PhD Candidate in Pharmacology, Sun Yat-sen University (SYSU).
-- *2022.09 - 2025.06*: &nbsp;Master in Pharmacology, Sun Yat-sen University (SYSU).
-- *2018.06 - 2022.09*: &nbsp;Bachelor, Southern Medical University.
+
+## 🏫 Educations
+
+<div class="edu-timeline">
+  <div class="edu-item">
+    <div class="edu-dot"></div>
+    <div class="edu-body">
+      <div class="edu-date">2025.09 – Present</div>
+      <div class="edu-school">Sun Yat-sen University (SYSU)</div>
+      <div class="edu-degree">PhD Candidate in Pharmacology</div>
+    </div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-dot"></div>
+    <div class="edu-body">
+      <div class="edu-date">2022.09 – 2025.06</div>
+      <div class="edu-school">Sun Yat-sen University (SYSU)</div>
+      <div class="edu-degree">Master in Pharmacology</div>
+    </div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-dot"></div>
+    <div class="edu-body">
+      <div class="edu-date">2018.06 – 2022.09</div>
+      <div class="edu-school">Southern Medical University</div>
+      <div class="edu-degree">Bachelor</div>
+    </div>
+  </div>
+</div>
 
 <span class='anchor' id='-publications'></span>
-# 📃 Publications
+## 📃 Publications
 
 <div id="publications-wrapper">
   <div id="filter-container"></div>
@@ -155,11 +193,11 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 </div>
 
 <span class='anchor' id='-awards'></span>
-# 🏆 Awards
+## 🏆 Awards
 - *2024*: &nbsp;National Scholarship (国家奖学金), Ministry of Education of China.
 
 <span class='anchor' id='-projects'></span>
-# 🛠️ Projects
+## 🛠️ Projects
 
 <div class='paper-box floating-card'>
   <div class='paper-box-text'>
