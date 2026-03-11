@@ -2,9 +2,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Educations"
     url: "/#-educations"
 
@@ -14,17 +11,5 @@ main:
   - title: "Awards"
     url: "/#-awards"
 
-  - title: "Talks"
-    url: "/#-talks"
-
-  - title: "Services"
-    url: "/#-services"
-
-  - title: "Internships"
-    url: "/#-internships"
-
-  - title: "Interests"
-    url: "/#-interests"
-
-  - title: "Bond"
-    url: "/#-bond"
+  - title: "Projects"
+    url: "/#-projects"

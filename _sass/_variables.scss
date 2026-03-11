@@ -14,7 +14,8 @@
    
    /* system typefaces */
    $serif                      : Georgia, Times, serif;
-   $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+   $sans-serif                 : "DM Sans", "Trebuchet MS", Helvetica, sans-serif;
+   $display-serif              : "DM Serif Display", Georgia, serif;
    // $sans-serif                 : Georgia, serif, sans-serif;
    
    // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -32,7 +33,7 @@
    $garamond                   : Garamond, serif;
    
    $global-font-family         : $sans-serif;
-   $header-font-family         : $sans-serif;
+   $header-font-family         : $display-serif;
    $caption-font-family        : $serif;
    
    /* type scale */
@@ -57,19 +58,19 @@
    $light-gray                 : mix(#fff, $gray, 50%);
    $lighter-gray               : mix(#fff, $gray, 90%);
    
-   // 主色调系统 - 深蓝色系
-   $primary-color              : #012F63;
-   $primary-light              : #1a4f8a;
-   $primary-lighter            : #336fa1;
-   $primary-dark               : #001f42;
-   $primary-darker             : #001529;
+   // 主色调系统 — 深洋蓝
+   $primary-color              : #0f2744;
+   $primary-light              : #1a3a5c;
+   $primary-lighter            : #2a5278;
+   $primary-dark               : #091c30;
+   $primary-darker             : #050f1a;
    
-   // 强调色系统 - 珊瑚粉系
-   $accent-color               : #FE667B;
-   $accent-light               : #ff8599;
-   $accent-lighter             : #ffa4b7;
-   $accent-dark                : #e5475d;
-   $accent-darker              : #cc2840;
+   // 强调色系统 — 森林绿
+   $accent-color               : #1e6b52;
+   $accent-light               : #27a077;
+   $accent-lighter             : #3dbf8f;
+   $accent-dark                : #155040;
+   $accent-darker              : #0d3529;
    
    // 辅助色彩
    $secondary-color            : #6c5ce7;
@@ -79,7 +80,7 @@
    
    // 渐变色彩
    $gradient-primary           : linear-gradient(135deg, $primary-color 0%, $primary-light 50%, $accent-color 100%);
-   $gradient-accent            : linear-gradient(135deg, $accent-color 0%, $accent-light 50%, $secondary-light 100%);
+   $gradient-accent            : linear-gradient(135deg, $accent-color 0%, $accent-light 50%, $accent-lighter 100%);
    $gradient-subtle            : linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
    $gradient-hero              : linear-gradient(135deg, $primary-darker 0%, $primary-color 30%, $accent-dark 100%);
    
@@ -167,9 +168,9 @@
    $border-radius              : 8px;
    $border-radius-large        : 12px;
    $border-radius-small        : 4px;
-   $box-shadow                 : 0 4px 15px rgba(1, 47, 99, 0.08);
-   $box-shadow-hover           : 0 8px 25px rgba(1, 47, 99, 0.12);
-   $box-shadow-accent          : 0 4px 15px rgba(254, 102, 123, 0.15);
+   $box-shadow                 : 0 4px 15px rgba(15, 39, 68, 0.08);
+   $box-shadow-hover           : 0 8px 25px rgba(15, 39, 68, 0.12);
+   $box-shadow-accent          : 0 4px 15px rgba(30, 107, 82, 0.15);
    $navicon-width              : 28px;
    $navicon-height             : 4px;
    $global-transition          : all 0.3s cubic-bezier(0.4, 0, 0.2, 1);

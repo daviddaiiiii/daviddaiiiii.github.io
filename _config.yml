@@ -7,36 +7,36 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaole Dai (David)"
+title                    : "Yuxing Dai (Frank)"
 title_separator          : "-"
-subtitle                 : "AI X Life Science"
-name                     : "Gaole Dai"
-description              : "Gaole Dai is a PhD student at Peking University, referencing in AI for Life Science, NeuroAI, and Computer Vision."
-url                      : "https://daviddaiiiii.github.io"
+subtitle                 : "Translational Pharmacology & Drug Discovery"
+name                     : "Yuxing Dai"
+description              : "PhD Candidate · Pharmacology · Sun Yat-sen University"
+url                      : "https://frankkk1912.github.io"
 baseurl                  : ""
-repository               : "daviddaiiiii/daviddaiiiii.github.io"
+repository               : "frankkk1912/frankkk1912.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  "-HHkCOcQIpvmfJpoaRSVyCsbm2-9oCE6TiZlzmxvl10"
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Gaole Dai"
-  avatar           : "images/avatar.png"
+  name             : "Yuxing Dai"
+  avatar           : "images/avatar.jpg"
   og_image         : "images/profile.png"
   bio              : ""
-  location         : "Beijing, China"
+  location         : "Guangzhou, China"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2Of6xZUAAAAJ"
-  email            : "2201111765@stu.pku.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=f7g1s5sAAAAJ"
+  email            : "frank1912f@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Yuxing-Dai-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,15 +44,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daviddaiiiii"
+  github           : "Frankkk1912"
   google_plus      :
   keybase          :
-  instagram        : "chunnidvd"
+  instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # ""
+  linkedin         : "frank-dai-a95b223b5"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-9216-7948"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
