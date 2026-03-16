@@ -377,6 +377,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       <a href="https://scholar.google.com/citations?hl=en&user=KAXu0vAAAAAJ" class="link-accent">Qingpo Wuwu</a>,
       <a href="https://scholar.google.com/citations?hl=en&user=TxeAbWkAAAAJ" class="link-accent">Chun-Kai Fan</a>,
       <a href="https://scholar.google.com/citations?hl=en&user=iXENYMYAAAAJ" class="link-accent">Chenkai Hou</a>,
+      <a href="https://scholar.google.com/citations?hl=en&user=X2ekEX8AAAAJ" class="link-accent">Siyuan Qian</a>,
       <a href="https://scholar.google.com/citations?user=5JlrsxsAAAAJ&hl=zh-CN" class="link-accent">Hao Wang</a>,
       <a href="https://scholar.google.com/citations?user=Wrcer2IAAAAJ&hl=zh-CN" class="link-accent">Peidong Jia</a>,
       <a href="https://jiayueru.github.io/" class="link-accent">Yueru Jia</a>,
