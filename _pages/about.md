@@ -81,11 +81,13 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.07*: &nbsp;🎉 1 papers (1xlast) is accepted by <span class="accent-text">The Forty-third ACM International Conference on Multimedia (ACMMM 2026)</span> See you in Rio de Janeiro🇧🇷. 
+- *2026.05*: &nbsp;🎉 1 papers (1xcontribute)is accepted by <span class="accent-text">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</span>. 
 - *2026.01*: &nbsp;🎉 2 papers (1xfirst, 1xcontribute) are accepted by <span class="accent-text">The Fourteenth International Conference on Learning Representations (ICLR 2026)</span>. See you in Rio de Janeiro🇧🇷!
 - *2025.11*: &nbsp;🎉 2 papers (1xco-first/oral, 1xcontribute) are accepted by <span class="accent-text">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</span>. See you in Singapore🇸🇬!
 - *2025.10*: &nbsp;🎤 Invited talk in The 2nd AI for Science PhD Seminar hold by <span class="accent-text">The School of AI for Science, Peking University</span>. See you in Shenzhen🇨🇳! 
 - *2025.09*: &nbsp;🎉 2 papers (1xfirst/spotlight, 1xcontribute) are accepted by <span class="accent-text">The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</span>. See you in San Diego 🇺🇸! 
-- *2025.07*: &nbsp;🎉 1 papers (1xfirst) is accepted in principle by <span class="accent-text">Nature Computational Science</span>. 
+- *2025.07*: &nbsp;🎉 1 papers (1xfirst) is accepted by <span class="accent-text">Nature Computational Science</span>. 
 - *2025.05*: &nbsp;🎉 1 papers (1xfirst) is accepted by <span class="accent-text">The Forty-second International Conference on Machine Learning (ICML 2025)</span>. See you in Vancouver🇨🇦!
 - *2024.12*: &nbsp;✅ Received approval of Pilot Program of Research Fund for Excellent PhD Students hold by <span class="accent-text">Natural Science Foundation of China (NSFC)</span>. 
 - *2024.07*: &nbsp;🎉 1 papers (1xstudent first) is accepted in principle by <span class="accent-text">Nature Methods</span>. 
@@ -98,9 +100,35 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
-
 <div id="publications-wrapper">
   <div id="filter-container"></div>
+
+  <div class='paper-box floating-card' data-tags="Corresponding Author, AI for Life Science, Knowledge Distillation, CCF-A">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">ACMMM 2026 Poster</div>
+      <img src='images/tied.png' alt="SpikeGen Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>TIED-MedSAM2: Test-time Inference Enhancement and Distillation for Prompt-Efficient 3D Medical Segmentation</h3>
+      <div class="authors">Liyuqiu Huang⭐️, <span class="primary-gradient-text">Gaole Dai</span>📧</div>
+      <div class="venue">The Forty-third ACM International Conference on Multimedia (ACMMM 2026)</div>
+    </div>
+  </div>
+
+  <div class='paper-box floating-card' data-tags="Knowledge Distillation, CCF-A, JCR-Q1">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">TPAMI</div>
+      <img src='images/freekd+.png' alt="SpikeGen Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>FreeKD+: A Frequency Knowledge Distillation Framework for Dense Prediction</h3>
+      <div class="authors">Yuan Zhang⭐️, Tao Huang, <span class="primary-gradient-text">Gaole Dai</span>, Jiaming Liu, Wenzhao Zheng, Jiwen Lu, Shanghang Zhang📧</div>
+      <div class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (2026), JCR-Q1, IF=20.4</div>
+      <div class="links">
+        <a href="https://ieeexplore.ieee.org/abstract/document/11520187" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      </div>
+    </div>
+  </div>
   
   <div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, CCF-A">
     <div class='paper-box-image'>
@@ -174,7 +202,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <div class='paper-box-text'>
       <h3>Implicit neural image field for biological microscopy image compression</h3>
       <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Rongyu Zhang, Qingpo Wuwu, Cheng-Ching Tseng, Yu Zhou, Shaokang Wang, Siyuan Qian, Ming Lu, Ali Ata Tuz, Matthias Gunzer, Tiejun Huang📧, Jianxu Chen📧, Shanghang Zhang📧</div>
-      <div class="venue">Nature Computational Science (2025), JCR-Q1, IF=18.4</div>
+      <div class="venue">Nature Computational Science (2025), JCR-Q1, IF=19.3</div>
       <div class="links">
         <a href="https://www.nature.com/articles/s43588-025-00889-4" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/PKU-HMI/INIF" class="btn-accent"><i class="fab fa-github"></i> Code</a>
