@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Gaole Dai (David) - Homepage"  
-excerpt: "Ph.D student in NERC at Peking University. Research focus on AI for Life Science & NeuroAI."
+excerpt: "PhD candidate in Computer Science at Peking University, expected to graduate in 2027. Research in AI for life sciences and NeuroAI."
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,13 +21,13 @@ header:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is <span class="accent-text">Gao Le Dai</span> (you can call me David or, perhaps, DVD). I'm currently a PhD student at the <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> in **Peking University**<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">. I got my Bachelor's degree in Biology from **University of Toronto**<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">. My supervisors are Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
+My name is <span class="accent-text">Gaole Dai</span> (David). I'm a PhD candidate in Computer Science at the <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a>, **Peking University**<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">, with expected graduation in 2027. I received my BSc in Biology, with Distinction, from the **University of Toronto**<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">. My advisors are <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
 
 <div class="quote-accent">
 My research focuses on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
   <ul>
     <li>Using powerful <span class="primary-gradient-text">AI tools</span>⚙️ to solve complex scientific problems.</li>
-    <li>Using unique <span class="primary-gradient-text">scientific data</span>🦠 to explore irregular model dynamic</li>
+    <li>Using <span class="primary-gradient-text">scientific data</span>🦠 to study representation learning and model behavior.</li>
   </ul>
 </div>
 
@@ -35,18 +35,18 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> Interdiscipline Researcher</h3>
+    <h3><i class="fas fa-microscope"></i> Interdisciplinary Researcher</h3>
     <ul>
       <li>My <span class="primary-gradient-text">Technical Preference</span>: 
-        Representation Learning & Phenotypical Research
+        Representation Learning & Phenotypic Research
       </li>
-      <li>Published as <span class="primary-gradient-text">First Author</span> in: 
-        Nature Methods<img src='images/nmlogo.png' style="height:1em; vertical-align:middle;">,
-        Nature Compuational Science<img src='images/ncslogo.png' style="height:1em; vertical-align:middle;"> ,
+      <li><span class="primary-gradient-text">First/co-first-author research</span> in:
+        Nature Computational Science<img src='images/ncslogo.png' style="height:1em; vertical-align:middle;">,
         ICLR<img src='images/iclrlogo.png' style="height:1em; vertical-align:middle;"> ,
         NeurIPS<img src='images/neuripslogo.png' style="height:1em; vertical-align:middle;">,
         and ICML<img src='images/icmllogo.png' style="height:1em; vertical-align:middle;"> 
       </li>
+      <li>Co-author of a <span class="primary-gradient-text">Comment</span> in Nature Methods<img src='images/nmlogo.png' style="height:1em; vertical-align:middle;">.</li>
     </ul>
   </div>
   
@@ -81,6 +81,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.09*: &nbsp;Completed my Honor Scholar internship (辰星荣耀学者计划) with the <span class="accent-text">AI for Brain group, Microsoft Research Asia (MSRA)</span> (July–September 2026).
 - *2026.07*: &nbsp;🎉 1 papers is accepted by <span class="accent-text">The Forty-third ACM International Conference on Multimedia (ACMMM 2026)</span>. See you in Rio de Janeiro🇧🇷. 
 - *2026.05*: &nbsp;🎉 1 papers is accepted by <span class="accent-text">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</span>. 
 - *2026.01*: &nbsp;🎉 2 papers are accepted by <span class="accent-text">The Fourteenth International Conference on Learning Representations (ICLR 2026)</span>. See you in Rio de Janeiro🇧🇷!
@@ -94,8 +95,8 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2024.01*: &nbsp;🎤 Invited talk in The Dagstuhl Seminar hold by <span class="accent-text">Leibniz Institute for Analytical Sciences (ISAS)</span>. See you in Dagstuhl🇩🇪! 
 
 <span class='anchor' id='-educations'></span>
-# 🏫 Educations
-- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
+# 🏫 Education
+- *2022.09 - 2027 (expected)*: &nbsp;PhD Candidate in Computer Science, Peking University<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
 - *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="primary-gradient-text">with Distinction</span>, University of Toronto<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">.
 
 <span class='anchor' id='-publications'></span>
@@ -258,15 +259,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, JCR-Q1">
+  <div class='paper-box floating-card' data-tags="AI for Life Science, Comment, JCR-Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">Nature Methods</div>
       <img src='images/gbai.png' alt="GBAI Overview" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>Multimodal large language models for bioimage analysis</h3>
-      <div class="authors">Shanghang Zhang📧, <span class="primary-gradient-text">Gaole Dai</span>⭐️, Tiejun Huang, Jianxu Chen📧</div>
-      <div class="venue">Nature Methods (2024), JCR-Q1, IF=32.1</div>
+      <div class="authors">Shanghang Zhang📧, <span class="primary-gradient-text">Gaole Dai</span>, Tiejun Huang, Jianxu Chen📧</div>
+      <div class="venue">Nature Methods (2024), Comment, JCR-Q1, IF=32.1</div>
       <div class="links">
         <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -318,8 +319,10 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *Conferences*: &nbsp;Reviewer of ICML, NeurIPS, ICLR, AAAI.
 
 <span class='anchor' id='-interships'></span>
+<span class='anchor' id='-internships'></span>
 # 💼 Internships
-- *2024.08 - Present*: &nbsp;Research Intern, <a href="https://www.baai.ac.cn" class="link-accent">Beijing Academy of Artifical Intelligence (BAAI)</a>.
+- *2026.07 - 2026.09*: &nbsp;Honor Scholar (辰星荣耀学者计划), AI for Brain group, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" class="link-accent">Microsoft Research Asia (MSRA)</a>.
+- *2024.08 - Present*: &nbsp;Research Intern, <a href="https://www.baai.ac.cn" class="link-accent">Beijing Academy of Artificial Intelligence (BAAI)</a>.
 - *2024.01 - 2024.08*: &nbsp;Research Intern, <a href="https://www.intellif.com/" class="link-accent">Intellifusion Technology</a>.
 
 <span class='anchor' id='-interests'></span>
